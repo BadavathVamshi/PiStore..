@@ -3,7 +3,7 @@ import "./ContactPage.css"
 
 const ContactPage = () => {
   return (
-    <div>Contact : savitala.sridhar@gmail.com</div>
+    <div>Contact : vamsh9i@gmail.com</div>
   )
 }
 
